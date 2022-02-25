@@ -1,3 +1,3 @@
 resource "random_pet" "pet" {
-    prefix = var.location
+    prefix = var.prefix
 }
